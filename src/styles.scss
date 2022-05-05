@@ -1,0 +1,166 @@
+/*<palette>
+  <color name="Eerie Black" hex="171717" r="23" g="23" b="23" />
+  <color name="Eerie Black" hex="1d1d1d" r="29" g="29" b="29" />
+  <color name="Raisin Black" hex="282828" r="40" g="40" b="40" />
+  <color name="Green RYB" hex="5da93c" r="93" g="169" b="60" />
+  <color name="Platinum" hex="e6e8e6" r="230" g="232" b="230" />
+</palette> */
+
+
+
+body {
+  background-color: #1d1d1d
+}
+
+
+.navbar-style{
+    background-color: #1d1d1d;
+    margin : 0px;
+    height : 2.5rem;
+    padding : 0.5rem
+}
+
+.nav-heading{
+    font-family: Helvetica, sans-serif;
+    color: #e6e8e6;
+    margin : 2px;
+}
+
+.label-style{
+    color: #282828;
+    font-weight: bold;
+}
+
+.form-control {
+    background-color: #282828 !important;
+    color: #e6e8e6 !important;
+    border-color: #282828 !important;
+    box-shadow:  I !important
+}
+
+.form-control:focus {
+    border-color: #5da93c !important;
+    box-shadow: 0 0 0.5rem 0 #5da93c !important;
+}
+
+.card.search-box{
+    background-color: #171717;
+    margin: 0px;
+    width: 100%;
+    border-radius: 0px;
+}
+
+.btn-style{
+    border-radius: 0rem 50rem 50rem 0rem;
+    background-color: #5da93c ;
+    
+}
+
+.btn-style-left{
+    border-radius: 50rem 0rem 0rem 50rem;
+    background-color: #5da93c ;
+    
+}
+
+.btn-text {
+    color :#e6e8e6;
+    font-weight: 600;
+
+}
+
+.btn-style:hover{
+    border-color: #5da93c ;
+    box-shadow: 0 0 0.5rem 0 #5da93c ;
+}
+
+button:active:focus, button:focus {
+    border-style: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.btn-style:active{
+    border-style: none;
+    box-shadow: none;
+    outline: none;
+}
+
+// .year-styles{
+
+// }
+
+.img-card{
+    width: 80%;
+    height: auto;
+    ;
+    
+}
+
+.img-card:hover{
+    
+    box-shadow: 0 0 1rem 0 #5da93c;
+    width: 81%;
+    height: auto;
+}
+
+.img-card-border{
+
+    border: 5px solid #5da93c !important;
+    background-color: #171717 !important;
+}
+
+.card-text{
+    color:#5da93c;
+    font-size : 1rem;
+    font-weight: bold;
+}
+
+.statement-style{
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: #5da93c
+}
+
+.list-style{
+    margin-top : 2rem;
+    list-style-type: none;
+
+}
+
+.list-item-style{
+    margin-bottom: 0.5rem;
+    list-style-type: none;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: #5da93c
+}
+
+.list-content-style{
+    margin-bottom: 0.5rem;
+    list-style-type: none;
+    font-weight: lighter;
+    font-size: smaller;
+    font-family: Helvetica, sans-serif;
+    color: #e6e8e6
+}
+
+
+.list-style-card {
+    list-style-type: none;
+
+}
+
+.card-content{
+    color:#5da93c;
+    font-size : 0.7rem;
+    font-weight: medium
+}
+
+.card-content-fill{
+    color:#e6e8e6;
+    font-size : 0.6rem;
+    font-weight: medium
+}
+
+
+

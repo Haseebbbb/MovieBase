@@ -1,0 +1,17 @@
+/*<palette>
+  <color name="Eerie Black" hex="171717" r="23" g="23" b="23" />
+  <color name="Eerie Black" hex="1d1d1d" r="29" g="29" b="29" />
+  <color name="Raisin Black" hex="282828" r="40" g="40" b="40" />
+  <color name="Green RYB" hex="5da93c" r="93" g="169" b="60" />
+  <color name="Platinum" hex="e6e8e6" r="230" g="232" b="230" />
+</palette> */
+
+
+body {
+  background-color: #1d1d1d;
+}
+
+:root {
+  --body-font: Helvetica, sans-serif;
+  --normal-font-size: 1rem;
+}
